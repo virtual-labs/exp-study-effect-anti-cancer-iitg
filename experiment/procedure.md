@@ -72,3 +72,24 @@ Use FL-A vs FL-H or FL-A vs FL-W gating to exclude doublets: single nuclei have 
 <p align="center" >
 <b>Figure 3: Cell-cycle stages of MDA-MB-231 cells treated with anti-cancer drug.</b>
 </p>
+
+---
+
+## Video Demonstration
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=-E4Y1CeJKCw">
+        <img src="https://img.youtube.com/vi/-E4Y1CeJKCw/maxresdefault.jpg" width="400">
+      </a>
+      Operation of flow cytometer
+    </td>
+    <td>
+      <a href="https://www.youtube.com/watch?v=9AMrU7S2bHk">
+        <img src="https://img.youtube.com/vi/9AMrU7S2bHk/maxresdefault.jpg" width="400">
+      </a>
+      Cell cycle analysis
+    </td>
+  </tr>
+</table>
