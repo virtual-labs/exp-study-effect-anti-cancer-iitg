@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Kupffer cells are present in",
+      "answers": {
+        "a": "Brain",
+        "b": "Heart",
+        "c": "Blood",
+        "d": "Liver"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "G2 to M phase transition is mediated by maturation promoting factor",
+      "answers": {
+        "a": "Cdk2/CyclinA",
+        "b": "Cdk1/CyclinB",
+        "c": "Cdk2/CyclinD",
+        "d": "Cdk2/CyclinB"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "G1 phase is under the control of _________.",
+      "answers": {
+        "a": "Cyclin D",
+        "b": "RB protein",
+        "c": "p21 gene products",
+        "d": "p53 gene products"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In ________ the nuclear membrane is dissolved and chromatin condenses into chromosomes.",
+      "answers": {
+        "a": "Prophase",
+        "b": "Metaphase",
+        "c": "Anaphase",
+        "d": "Telophase"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Non-proliferative multicellular eukaryotic cells enter the _________ phase.",
+      "answers": {
+        "a": "G0",
+        "b": "G1",
+        "c": "G2",
+        "d": "M"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "The alignment of chromosomes along the metaphase plate is a crucial event to decide the entry of cells into anaphase. The signal required for this control is created by ________________.",
+      "answers": {
+        "a": "G1/S checkpoint",
+        "b": "G2/M checkpoint",
+        "c": "Mitotic spindle checkpoint",
+        "d": "DNA replication checkpoint"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Cell cycles at different steps are tightly controlled by cell-cycle checkpoints. Each checkpoint is controlled by the mutual interaction between __________.",
+      "answers": {
+        "a": "DNA polymerase and ATPase",
+        "b": "Tumor suppressor proteins and helicase",
+        "c": "DNA repair enzymes and ribosomal proteins",
+        "d": "Cyclin and cyclin dependent protein kinase"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Cytokinesis in animal cells differs from plant cells mainly by",
+      "answers": {
+        "a": "Position of metaphase plate",
+        "b": "Use of spindle fibers",
+        "c": "Cleavage furrow vs cell plate formation",
+        "d": "Chromosome segregation mechanism"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Neurons remain in G0 phase because they are",
+      "answers": {
+        "a": "Senescent and apoptotic",
+        "b": "Quiescent and terminally differentiated",
+        "c": "Actively dividing but arrested",
+        "d": "Lacking cyclin-dependent kinases"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which is the longest phase of the cell cycle?",
+      "answers": {
+        "a": "G2",
+        "b": "G1",
+        "c": "S",
+        "d": "M"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In flow cytometry, the side scattered channel captures data related to the",
+      "answers": {
+        "a": "Cell size",
+        "b": "Cell granularity",
+        "c": "Cell shape",
+        "d": "Refractive index of cell"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a cell cycle analysis by flow cytometry, the cells are stained with",
+      "answers": {
+        "a": "RNA specific dye",
+        "b": "Protein binding dye",
+        "c": "Membrane specific dye",
+        "d": "DNA binding dye"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In apoptotic cells, annexin V binds to phosphatidyl serine (PS) as",
+      "answers": {
+        "a": "PS in live cells moves to the cytoplasmic side of the plasma membrane",
+        "b": "PS moves to cytoplasm in dead cells and is thus accessible to annexin V",
+        "c": "PS in apoptotic cells translocates to the extracellular side of the plasma membrane",
+        "d": "In dead cells annexin V internalizes and binds to phosphatidyl serine"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Compensation is required in flow cytometry because",
+      "answers": {
+        "a": "FRET occurs between two fluorophores",
+        "b": "Low intensity of fluorophore signal",
+        "c": "Spectral overlap between the two fluorophores",
+        "d": "Quenching of fluorescence by the other fluorophore"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In flow cytometry, selection of data acquisition from a distinct fraction of cells from a cell population can be achieved by",
+      "answers": {
+        "a": "Double staining",
+        "b": "Gating",
+        "c": "Fluorescence compensation",
+        "d": "Counter staining"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In flow cytometry, the forward scattered channel captures data related to the __________",
+      "answers": {
+        "a": "Cell granularity",
+        "b": "Cell size",
+        "c": "Cytosolic structure",
+        "d": "Cytoplasmic complexity"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In flow cytometry, selection of a certain population of cells from an analysis plot is known as ________________",
+      "answers": {
+        "a": "Gating",
+        "b": "Histogram",
+        "c": "Compensation",
+        "d": "Hydrodynamic focusing"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "________________ lasers are used for scanning in flow cytometry.",
+      "answers": {
+        "a": "Argon lasers",
+        "b": "Neon lasers",
+        "c": "Helium lasers",
+        "d": "Radon lasers"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Propidium iodide cannot stain live cells because it:",
+      "answers": {
+        "a": "Is rapidly degraded",
+        "b": "Cannot bind RNA",
+        "c": "Requires UV excitation",
+        "d": "Cannot cross intact membranes"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Gating is the selection of _____________________.",
+      "answers": {
+        "a": "Only a certain population of cells for analysis on plot.",
+        "b": "One cell for analysis on plot.",
+        "c": "Preferred voltage for analysis on plot.",
+        "d": "Preferred wavelength for analysis on plot."
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+  ]
+}
